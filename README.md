@@ -92,7 +92,6 @@ Following code displaying findings for each model:
 
 
 Resulting models saved into RESOURCES folder:
-
 <img width="584" alt="Screen Shot 2022-09-19 at 1 17 13 AM" src="https://user-images.githubusercontent.com/107383254/190953707-ba594717-258a-4a18-b294-ce3e3a1e8eb7.png">
 
 ## License
