@@ -88,7 +88,11 @@ now you can find repo on your desktop
 ## Project Findings
 Following code displaying findings for each model:
 <img width="840" alt="Screen Shot 2022-09-19 at 1 16 24 AM" src="https://user-images.githubusercontent.com/107383254/190953669-a6caf667-cd18-4547-aa63-baaca9384907.png">
+
+
+
 Resulting models saved into RESOURCES folder:
+
 <img width="584" alt="Screen Shot 2022-09-19 at 1 17 13 AM" src="https://user-images.githubusercontent.com/107383254/190953707-ba594717-258a-4a18-b294-ce3e3a1e8eb7.png">
 
 ## License
